@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=saukumar95)
 
-![Custom badge](https://img.shields.io/endpoint?label=LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&url=www.linkedin.com/in/saurabhkumarrr)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-De76a8?style=flat-
+square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saurabhkumarrr)
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saukumar95&show_icons=true&theme=dark)
 
