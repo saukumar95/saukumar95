@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saukumar95)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-De76a8?style=flat-square&logo=Linkedin&logoColor=blue&color=white)](www.linkedin.com/in/saurabhkumarrr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-De76a8?style=flat-square&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/saurabhkumarrr/)
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saukumar95&show_icons=true&theme=dark)
 
