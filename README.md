@@ -2,10 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=saukumar95) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-De76a8?style=flat-square&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/saurabhkumarrr/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=red&color=white)](https://www.instagram.com/that.confused.bihari/)
 
-## Activity
-
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saukumar95&show_icons=true&theme=dark)
-
 ## About me
 
 - 🔭 I’m currently working Code Chef Programming
@@ -16,6 +12,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No pain No gain
 
+## Activity
+
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saukumar95&show_icons=true&theme=dark)
 
 ## Quote of the Day
 
