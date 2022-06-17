@@ -6,7 +6,7 @@
 
 ## About me
 
-- 🔭 I’m currently working Code Chef Programming
+- 🔭 I’m currently working on Code Chef Programming
 - 🌱 I’m currently learning Scala
 - 🤔 I’m looking for help with Scala
 - 💬 Ask me about Java, NodeJS, ReactJS, Spring
