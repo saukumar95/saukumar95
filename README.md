@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on Code Chef Programming
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Scala
 - 💬 Ask me about Java, NodeJS, ReactJS, Spring
 - 📫 How to reach me: saukumar95@gmail.com
 - 😄 Pronouns: He/Him
