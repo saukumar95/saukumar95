@@ -7,7 +7,7 @@
 ## About me
 
 - 🔭 I’m currently working on Code Chef Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Apache Spark
 - 💬 Ask me about Java, NodeJS, ReactJS, Spring
 - 📫 How to reach me: saukumar95@gmail.com
 - 😄 Pronouns: He/Him
