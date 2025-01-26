@@ -17,6 +17,8 @@
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saukumar95&show_icons=true&theme=dark)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6794e54832284498bce06172?variant=dark)](https://roadmap.sh)
+
 ## Quote of the Day
 
 <p align="left">
